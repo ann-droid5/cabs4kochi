@@ -10253,3 +10253,7 @@ textarea.form-control {
   height: 50px;
   object-fit: contain;
 }
+.contact-text.email {
+  word-break: break-all;
+  color: #555;
+}
